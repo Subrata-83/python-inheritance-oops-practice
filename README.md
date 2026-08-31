@@ -49,13 +49,10 @@ Create a vector class representing a vector of n dimensions. Overload the `+` an
 
 Write a `__str__()` method to print the vector in the following format:
 
-```text
-7i + 8j + 10k
-
 👉 [View Solution](Chapter-11/Q6.py)
 
 
 ### Q6. Override the __len__() method on vector of problem 5 to display the dimension of the 
 vector.
 
-👉 [View Solution](Chapter-11/Q6.py)
+👉 [View Solution](Chapter-11/Q7.py)
